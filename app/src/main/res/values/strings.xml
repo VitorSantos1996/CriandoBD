@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CriandoBD</string>
+    <string name="editora">Editora</string>
+    <string name="autor">Autor</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="t_tulo">Título</string>
+    <string name="cadastrar_novo_livro">Cadastrar Novo</string>
+</resources>
